@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Oscar\'s Dialer</string>
+
+    <string name="button_ok">Ok</string>
+
+    <string name="permission_available_call_phone">Call Phone Permission Available</string>
+    <string name="permissions_not_granted">Call Phone Permission Not Granted</string>
+    <string name="permission_contacts_rationale">We need Call Phone Permissions to allow the app to initiate outbound calls.</string>
+
+    <string name="validation_enter_phone_number">Please enter a Phone Number</string>
+
+</resources>
